@@ -1,0 +1,47 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-size: contain;
+    color: black; /*font color*/
+    text-align: center;
+    background-color:tan;
+}
+
+li{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol{
+    font-weight: bolder;
+}
+p{                               
+    text-align: center;
+    font-weight: bolder
+}
+
+.biotitle{
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+}
+
+.title{
+    text-decoration: underline overline;
+    color:black;
+    font-size: 350%;
+}
+
+.vidcaption{
+    font-size: large;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+.tabcaption{
+    font-weight: bolder;
+    color: black;
+    font-size: large;
+    text-align: center;
+}
